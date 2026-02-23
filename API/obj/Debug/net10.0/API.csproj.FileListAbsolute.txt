@@ -154,3 +154,5 @@
 /Users/negarsinaei/Projects/demo/DatingApp/API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/negarsinaei/Projects/demo/DatingApp/API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
 /Users/negarsinaei/Projects/demo/DatingApp/API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/negarsinaei/Projects/demo/DatingApp/API/obj/Debug/net10.0/API.sourcelink.json
+/Users/negarsinaei/Projects/demo/DatingApp/API/bin/Debug/net10.0/Data/UserSeedData.json
