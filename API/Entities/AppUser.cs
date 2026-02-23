@@ -12,6 +12,7 @@ public class AppUser
    public required string KnownAs { get; set; }
    public DateTime Created { get; set; } = DateTime.UtcNow;
    public DateTime LastActive { get; set; }
+   public required string Gender { get; set; }
    public string? Introduction { get; set; }
    public string? Interests { get; set; }
    public string? LookingFor { get; set; }
@@ -20,8 +21,8 @@ public class AppUser
    public List<Photo> Photos { get; set; } = [];
 
 
-   public int GetAge()
-   {
-      return DateOfBirth.CalculateAge();
-   }
+   // public int GetAge()
+   // {
+   //    return DateOfBirth.CalculateAge();
+   // }
 }
